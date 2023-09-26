@@ -6,7 +6,5 @@ public class Main {
         System.out.println("Purple");
         System.out.println("Blue");
         System.out.println("Red");
-
-
         }
     }
